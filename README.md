@@ -22,9 +22,12 @@ Passionate and motivated software developer with a strong foundation in quality,
 - **Technological Bachelor:** Instituto Tecnológico Superior "Arias Balparda" (2011-2014)
 
 ## 🌟 Project Highlights
-- [FourSenses Project](https://github.com/carliitosalvarez/FourSenses-Proyect): AWS-integrated website for user registration, authentication, and product management.
-- [Pokemon Replica](https://www.youtube.com/watch?v=3OV3Jw_5BXs&ab_channel=BrahianPuschiasis): A Visual Basic project replicating the Pokemon game.
+- [FourSenses Project](https://github.com/BrahianPuschiasis/FourSenses): AWS-integrated website for user registration, authentication, and product management, is a catering WebSite, integrating backend (Java+SprinBboot+SpringBootSecurity+React+Vite+mySQL+JavaScript).
 - [Haxball Forum App](https://www.youtube.com/watch?v=rayDQPC-9kA&ab_channel=BrahianPuschiasis): Visual Basic app connecting with Haxball game and forum for user functionalities.
+- [Pokemon Replica](https://www.youtube.com/watch?v=3OV3Jw_5BXs&ab_channel=BrahianPuschiasis): A Visual Basic project replicating the Pokemon game.
+
+## 🌐 Portfolio
+Explore my projects on my [portfolio page](https://brahianpuschiasis.github.io/curriculum/).
 
 ## 📫 Let's Connect!
 - LinkedIn: [Brahian Puschiasis](https://www.linkedin.com/in/brahian-puschiasis-948972234/)
