@@ -49,7 +49,7 @@ Passionate and motivated software developer with a strong foundation in quality,
 - [Basic Italian Diploma](https://drive.google.com/file/d/1X4p_2php7GPpLujfybQmoYehC1Bia7O3/view?usp=drive_link) (2011)
 - [Basic Portuguese Diploma](https://drive.google.com/file/d/1yUVBmZqlP2M9zVfzrKGet78nXWwzZxv-/view?usp=drive_link) (2011)
 
-  ## 🌐 Portfolio
+## 🌐 Portfolio
 Explore my projects on my [portfolio page](https://brahian-puschiasis.vercel.app/).
 
 ## 📫 Let's Connect!
