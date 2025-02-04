@@ -53,6 +53,6 @@ Passionate and motivated software developer with a strong foundation in quality,
 Explore my projects on my [portfolio page](https://brahian-puschiasis.vercel.app/).
 
 ## 📫 Let's Connect!
-- LinkedIn: [Brahian Puschiasis](https://www.linkedin.com/in/brahian-puschiasis-948972234/)
+- LinkedIn: [Brahian Puschiasis](https://www.linkedin.com/in/brahian-puschiasis/)
 - GitHub: [Brahian Puschiasis](https://github.com/BrahianPuschiasis)
 
