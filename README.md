@@ -13,7 +13,7 @@ Passionate and motivated software developer with a strong foundation in quality,
 - **Networking:** Basic knowledge
 
 ## 🌱 Current Learning
-- BIT Technologist Digital UTEC (Universidad Tecnologica del Uruguay)
+- IT Technologist Digital UTEC (Universidad Tecnologica del Uruguay)
 
 ## 🎓 Education
 - **Back End Specialist:** Universidad Tecnologica del Uruguay (2024 - 2025)
