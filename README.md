@@ -25,9 +25,9 @@ Passionate and motivated software developer with a strong foundation in quality,
   
 - [FourSenses Project](https://github.com/BrahianPuschiasis/FourSenses): AWS-integrated website for user registration, authentication, and product management, is a catering WebSite, integrating backend (Java+SpringBoot+SpringBootSecurity+React+Vite+mySQL+JavaScript).
   
-- [Haxball Forum App](https://www.youtube.com/watch?v=rayDQPC-9kA&ab_channel=BrahianPuschiasis): Visual Basic app connecting with Haxball game and forum for user functionalities.
+- [Haxball Forum App](https://youtu.be/XZuIXC1x4f8): Visual Basic app connecting with Haxball game and forum for user functionalities.
   
-- [Pokemon Replica](https://www.youtube.com/watch?v=3OV3Jw_5BXs&ab_channel=BrahianPuschiasis): A Visual Basic project replicating the Pokemon game.
+- [Pokemon Replica](https://youtu.be/4mR_C7qMmAA): A Visual Basic project replicating the Pokemon game.
   
 - [Micro service](https://github.com/abertone90/BackEnd-Parcial-2024): It's a BackEnd project that handles microservices, similar to modern streaming platforms like Netflix/Primevideo. It stores movies in its own MySQL database, series in its MongoDB database, and both are accessed through the Catalog microservice, which is accessed through a Gateway and uses Feign to communicate with movies and series (two separate microservices).The project uses RabbitMQ (for queue management), Zipkin (tracing), an API gateway, Eureka (self-discovery server), FeignClient, Spring Cloud, Resilience4j (circuit breaker); it's programmed in Java + Spring 3.X and have all the configs files in yml centralized in the repository linked below.The challenge letter is available in its repository, as well as its implementation.
   
